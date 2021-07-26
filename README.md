@@ -1,5 +1,9 @@
 ### Hi👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+
+
+
 ## 학력
 * 인하대학교 산업경영공학과 재학
 * 인하대학교 소프트웨어융합공학 연계전공
