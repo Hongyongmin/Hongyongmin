@@ -1,8 +1,6 @@
 ### Hi👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hongyongmin&show_icons=true)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hym9771)](https://solved.ac/hym9771/)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hongyongmin&show_icons=true)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hym9771)](https://solved.ac/hym9771/)
 
 
 ## 학력
@@ -10,6 +8,7 @@
 * 인하대학교 소프트웨어융합공학 연계전공
 
 ## 활동
+* (2021. 08 ~ 현재) Google ML BootCamp✨
 * (2021. 08 ~ 현재) 딥러닝 입문 스터디✨
 * (2021. 08 ~ 현재) PRML 스터디✨
 * (2021. 07 ~ 현재) 인하대학교 산업경영공학과 학부연구생 인턴 (TACTICS Lab.) ✨
