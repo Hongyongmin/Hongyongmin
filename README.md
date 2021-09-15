@@ -21,7 +21,7 @@
 
 ## Papers
 * 열화상 이미지 분석을 통한 배전 설비 공정능력지수 감지 시스템 개발 / 품질경영학회
-* F-RPN(Failure-RPN)을 이용한 장비 고장률 개선 연구:반도체 식각 공정을 중심으로
+* F-RPN(Failure-RPN)을 이용한 장비 고장률 개선 연구:반도체 식각 공정을 중심으로 / 
 
 <!--
 **Hongyongmin/Hongyongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
