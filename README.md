@@ -4,7 +4,7 @@
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin}/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/discussion)
 
 
