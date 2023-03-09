@@ -2,11 +2,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hongyongmin&show_icons=true)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hym9771)](https://solved.ac/hym9771/)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hongyongmin/discussion)
-
 
 ## 학력
 * 인하대학교 산업경영공학과 재학
